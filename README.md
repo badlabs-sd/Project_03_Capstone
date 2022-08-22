@@ -1,0 +1,12 @@
+# Project_03_Capstone
+## Background
+Writing is an invaluable tool for exercising our cognitive faculties. In the 21st century, texting has become an acceptable form of our day-to-day communication. However, social media platforms like twitter, and linkedin, based on their account suggestions policy, clearly give more priority to the way users like various contents or share them with others, or on the common geographic location of the users etc. This approach undermines the fact that texting in itself is a significant touch point for the platform and as a result, these platforms sometimes fail to connect like-minded people, hence depriving them of good writing content.
+Thus, this brings to my topic of developing a user recommender system based on the texting behaviour of the users. To be more specific, the aim of the project is “To develop a feature matrix for users based on their texting behaviour and build a recommender system model to identify the closest set of people based on their matrix.”
+Developing this recommender system model, will not only help to create the possibility of the like-minded people to get connected, but also provide them the opportunity to build their own community for exchanging thoughts and ideas on the topics of their interest. From the business perspective, the model will help companies to closely identify their potential customers for cognitive marketing so that ad-effectiveness is improved and resource allocation is optimized. 
+
+## About the Data
+The study is conducted using the historical text data from twitter. The actual data used for the project is taken from the study titled ‘Sentiment140 dataset with 1.6 million tweets' published on the website ‘www.kaggel.com’.
+The main source data consist of 5 independent features which includes ids, user name,  flags, date and text along with one dependent feature as target.
+
+## Methodology
+The study is conducted in three stages. The first stage “Feature Identification” includes data cleaning and feature engineering. In the feature engineering stage, the primary goal is to evaluate and find the top level behaviour of texting, topic level inclination while texting and lexical semantics of texting. In the second stage, the feature matrices created in the previous stage are used to develop the recommender system model. In the final stage, an algorithm is developed which can validate the results of the recommender system model.
