@@ -1,4 +1,4 @@
-# Project_03_Capstone
+# Project_03_Recommender-System-Based-On-Texting-Behavior-of-Users
 ## Background
 Writing is an invaluable tool for exercising our cognitive faculties. In the 21st century, texting has become an acceptable form of our day-to-day communication. However, social media platforms like twitter, and linkedin, based on their account suggestions policy, clearly give more priority to the way users like various contents or share them with others, or on the common geographic location of the users etc. This approach undermines the fact that texting in itself is a significant touch point for the platform and as a result, these platforms sometimes fail to connect like-minded people, hence depriving them of good writing content.
 Thus, this brings to my topic of developing a user recommender system based on the texting behaviour of the users. To be more specific, the aim of the project is “To develop a feature matrix for users based on their texting behaviour and build a recommender system model to identify the closest set of people based on their matrix.”
